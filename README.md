@@ -36,6 +36,12 @@
 - 🧩 Building side projects one bug at a time
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarshitaacharya&theme=tokyonight" />
+</p>
+---
 
 ### 💌 Let’s Connect
 
