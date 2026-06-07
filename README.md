@@ -74,5 +74,5 @@ The stuff that's actually moving right now:
 ---
 
 <p align="center">
-  <em>"When 900 years old you reach, ship as many side projects you will not." — Yoda</em>
+  <em>"When 900 years old you reach, ship as many side projects you will not." — Yoda probably</em>
 </p>
