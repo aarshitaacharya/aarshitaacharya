@@ -3,8 +3,7 @@
   <em>"Do or do not. There is no try." — but I do try, then debug, then try again.</em>
 </p>
 <p align="center">
-  Full Stack Dev &nbsp;·&nbsp; AI/ML Builder &nbsp;·&nbsp; Distributed Systems Nerd<br>
-  MS Computer Science @ UH &nbsp;·&nbsp; TA &nbsp;·&nbsp; 4.0 GPA
+  Full Stack Dev &nbsp;·&nbsp; Distributed Systems Nerd &nbsp;·&nbsp; MS CS @ UH
 </p>
 
 ---
@@ -12,9 +11,8 @@
 ### About Me
 
 - Building tools that feel like magic and systems that don't lie about consistency
-- Currently deep in the world of multi-agent systems, LLM internals, and distributed consensus
-- Exploring what's actually happening at the frontier: reasoning models, MoE architectures, inference-time compute, agentic pipelines, and the CAP trade-offs that haunt every system at scale
-- Probably thinking about the next side project right now
+- Heavy into distributed systems and AI/ML — this is where I live right now
+- Always thinking about the next side project
 
 ---
 
@@ -42,7 +40,7 @@
 
 **Distributed Systems**
 
-- [CAP Store](https://github.com/aarshitaacharya/cp-ap) — Hands-on CAP theorem demo: a two-node key-value store where you can switch between CP and AP mode and watch the trade-offs play out in real TCP traffic. Last-write-wins today, vector clocks next. Zero dependencies beyond stdlib.
+- [CAP Store](https://github.com/aarshitaacharya/cp-ap) — Hands-on CAP theorem demo: a two-node key-value store you can flip between CP and AP mode to watch the trade-offs play out in real TCP traffic. Last-write-wins today, vector clocks next. Zero dependencies beyond stdlib.
 
 - [Hardware CI Simulator](https://github.com/aarshitaacharya/hardware-ci-simulator) — Simulates a hardware-in-the-loop CI pipeline for HPC kernels: node provisioning, firmware flashing, NCCL/RDMA testing, regression detection, and parallel execution. No real hardware needed.
 
