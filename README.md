@@ -3,7 +3,7 @@
   <em>"Do or do not. There is no try." — but I do try, then debug, then try again.</em>
 </p>
 <p align="center">
-  Full Stack Dev &nbsp;·&nbsp; Distributed Systems Nerd &nbsp;·&nbsp; MS CS @ UH
+  Full Stack Dev &nbsp;·&nbsp; Distributed Systems &nbsp;·&nbsp; MS CS @ UH
 </p>
 
 ---
